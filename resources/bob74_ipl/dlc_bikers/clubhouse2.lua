@@ -400,3 +400,6 @@ BikerClubhouse2 = {
         RefreshInterior(BikerClubhouse2.interiorId)
     end
 }
+
+
+print("test")
